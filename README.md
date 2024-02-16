@@ -13,12 +13,16 @@
 ### Application
 Клонируйте репозиторий:
 ```
-git clone https://github.com/amahmetov/
-cd testproject
+git clone git@github.com:amahmetov1998/phonebook.git
+cd phonebook
 ```
-Создайте и активируйте виртуальное окружение:
+Создайте виртуальное окружение:
 ```
 make venv
+```
+Активируйте виртуальное окружение:
+```
+make activate
 ```
 Установите зависимости:
 ```
@@ -41,7 +45,7 @@ make load_data
 ```
 Импортируйте следующие функции:
 ```
-from phonebooks.views import from phonebook.views import add_contact, show_contacts, search_contact, update_contact
+from phonebook.views import add_contact, show_contacts, search_contact, update_contact
 ```
 Описание основных функций:
 #### add_contact
