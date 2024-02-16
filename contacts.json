@@ -1,0 +1,651 @@
+[
+{
+  "model": "phonebook.phonebook",
+  "pk": 1,
+  "fields": {
+    "name": "Владимир",
+    "surname": "Егоров",
+    "middle_name": "Михайлович",
+    "organization": 3,
+    "employee_phone_number": "23531",
+    "mobile_phone_number": "89172531223"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 2,
+  "fields": {
+    "name": "Иван",
+    "surname": "Сидоров",
+    "middle_name": "Владимирович",
+    "organization": 2,
+    "employee_phone_number": "24519",
+    "mobile_phone_number": "89174560919"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 3,
+  "fields": {
+    "name": "Антон",
+    "surname": "Карпов",
+    "middle_name": "Дмитриевич",
+    "organization": 6,
+    "employee_phone_number": "23123",
+    "mobile_phone_number": "89178450257"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 4,
+  "fields": {
+    "name": "Геннадий",
+    "surname": "Котов",
+    "middle_name": "Павлович",
+    "organization": 4,
+    "employee_phone_number": "45223",
+    "mobile_phone_number": "89177651473"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 5,
+  "fields": {
+    "name": "Виктор",
+    "surname": "Логинов",
+    "middle_name": "Сергеевич",
+    "organization": 3,
+    "employee_phone_number": "94222",
+    "mobile_phone_number": "89374563249"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 6,
+  "fields": {
+    "name": "Игорь",
+    "surname": "Максимов",
+    "middle_name": "Николаевич",
+    "organization": 2,
+    "employee_phone_number": "80442",
+    "mobile_phone_number": "89373451294"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 7,
+  "fields": {
+    "name": "Егор",
+    "surname": "Мишин",
+    "middle_name": "Карлович",
+    "organization": 1,
+    "employee_phone_number": "84321",
+    "mobile_phone_number": "89175034509"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 8,
+  "fields": {
+    "name": "Илья",
+    "surname": "Мосин",
+    "middle_name": "Васильевич",
+    "organization": 4,
+    "employee_phone_number": "09346",
+    "mobile_phone_number": "89174239851"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 9,
+  "fields": {
+    "name": "Алла",
+    "surname": "Храброва",
+    "middle_name": "Сергеевна",
+    "organization": 3,
+    "employee_phone_number": "23441",
+    "mobile_phone_number": "89372220412"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 10,
+  "fields": {
+    "name": "Евгений",
+    "surname": "Петров",
+    "middle_name": "Алексеевич",
+    "organization": 5,
+    "employee_phone_number": "87451",
+    "mobile_phone_number": "89175049422"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 11,
+  "fields": {
+    "name": "Виктория",
+    "surname": "Байкова",
+    "middle_name": "Ивановна",
+    "organization": 6,
+    "employee_phone_number": "09456",
+    "mobile_phone_number": "89174549115"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 12,
+  "fields": {
+    "name": "Михаил",
+    "surname": "Свитов",
+    "middle_name": "Павлович",
+    "organization": 1,
+    "employee_phone_number": "56022",
+    "mobile_phone_number": "89177547865"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 13,
+  "fields": {
+    "name": "Елена",
+    "surname": "Спиридонова",
+    "middle_name": "Александровна",
+    "organization": 7,
+    "employee_phone_number": "95456",
+    "mobile_phone_number": "89170954501"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 14,
+  "fields": {
+    "name": "Сергей",
+    "surname": "Кузнецов",
+    "middle_name": "Константинович",
+    "organization": 7,
+    "employee_phone_number": "23141",
+    "mobile_phone_number": "89372230431"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 15,
+  "fields": {
+    "name": "Артем",
+    "surname": "Громов",
+    "middle_name": "Викторович",
+    "organization": 2,
+    "employee_phone_number": "23023",
+    "mobile_phone_number": "89934511202"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 16,
+  "fields": {
+    "name": "Павел",
+    "surname": "Яковлев",
+    "middle_name": "Антонович",
+    "organization": 3,
+    "employee_phone_number": "09865",
+    "mobile_phone_number": "89371234503"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 17,
+  "fields": {
+    "name": "Елена",
+    "surname": "Ходченкова",
+    "middle_name": "Александровна",
+    "organization": 7,
+    "employee_phone_number": "94234",
+    "mobile_phone_number": "89173453212"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 18,
+  "fields": {
+    "name": "Николай",
+    "surname": "Виноградов",
+    "middle_name": "Васильевич",
+    "organization": 7,
+    "employee_phone_number": "43004",
+    "mobile_phone_number": "89173413212"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 19,
+  "fields": {
+    "name": "Кира",
+    "surname": "Ахметова",
+    "middle_name": "Ульфатовна",
+    "organization": 1,
+    "employee_phone_number": "51788",
+    "mobile_phone_number": "89174811621"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 20,
+  "fields": {
+    "name": "Ольга",
+    "surname": "Томина",
+    "middle_name": "Александровна",
+    "organization": 1,
+    "employee_phone_number": "45992",
+    "mobile_phone_number": "89174120531"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 21,
+  "fields": {
+    "name": "Мария",
+    "surname": "Шамарина",
+    "middle_name": "Сергеевна",
+    "organization": 7,
+    "employee_phone_number": "22063",
+    "mobile_phone_number": "89173910645"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 22,
+  "fields": {
+    "name": "Артур",
+    "surname": "Мартынов",
+    "middle_name": "Игоревич",
+    "organization": 7,
+    "employee_phone_number": "04532",
+    "mobile_phone_number": "89170984723"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 23,
+  "fields": {
+    "name": "Максим",
+    "surname": "Ешков",
+    "middle_name": "Генрихович",
+    "organization": 7,
+    "employee_phone_number": "23945",
+    "mobile_phone_number": "89170987534"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 24,
+  "fields": {
+    "name": "Максим",
+    "surname": "Демидов",
+    "middle_name": "Александрович",
+    "organization": 7,
+    "employee_phone_number": "54903",
+    "mobile_phone_number": "89174560422"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 25,
+  "fields": {
+    "name": "Руслана",
+    "surname": "Баранова",
+    "middle_name": "Дмитриевна",
+    "organization": 7,
+    "employee_phone_number": "55901",
+    "mobile_phone_number": "89371210976"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 26,
+  "fields": {
+    "name": "Никита",
+    "surname": "Павленков",
+    "middle_name": "Николаевич",
+    "organization": 4,
+    "employee_phone_number": "98444",
+    "mobile_phone_number": "89173451059"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 27,
+  "fields": {
+    "name": "Виктория",
+    "surname": "Давыдова",
+    "middle_name": "Петровна",
+    "organization": 7,
+    "employee_phone_number": "56004",
+    "mobile_phone_number": "89178309210"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 28,
+  "fields": {
+    "name": "Ульяна",
+    "surname": "Богданова",
+    "middle_name": "Платоновна",
+    "organization": 6,
+    "employee_phone_number": "45904",
+    "mobile_phone_number": "89375039530"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 29,
+  "fields": {
+    "name": "Лев",
+    "surname": "Артомонов",
+    "middle_name": "Павлович",
+    "organization": 7,
+    "employee_phone_number": "90670",
+    "mobile_phone_number": "89175690450"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 30,
+  "fields": {
+    "name": "Иван",
+    "surname": "Коростелев",
+    "middle_name": "Сергеевич",
+    "organization": 5,
+    "employee_phone_number": "95654",
+    "mobile_phone_number": "89932234056"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 31,
+  "fields": {
+    "name": "Илья",
+    "surname": "Архипов",
+    "middle_name": "Степанович",
+    "organization": 5,
+    "employee_phone_number": "45092",
+    "mobile_phone_number": "89934532101"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 32,
+  "fields": {
+    "name": "Диана",
+    "surname": "Кожухова",
+    "middle_name": "Сидоровна",
+    "organization": 4,
+    "employee_phone_number": "092341",
+    "mobile_phone_number": "89932340545"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 33,
+  "fields": {
+    "name": "Роман",
+    "surname": "Волгин",
+    "middle_name": "Панкратович",
+    "organization": 3,
+    "employee_phone_number": "19431",
+    "mobile_phone_number": "89174509565"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 34,
+  "fields": {
+    "name": "Анастасия",
+    "surname": "Морякова",
+    "middle_name": "Витальевна",
+    "organization": 6,
+    "employee_phone_number": "95345",
+    "mobile_phone_number": "89179055784"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 35,
+  "fields": {
+    "name": "Елена",
+    "surname": "Кирина",
+    "middle_name": "Анатольевна",
+    "organization": 5,
+    "employee_phone_number": "34546",
+    "mobile_phone_number": "89479875601"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 36,
+  "fields": {
+    "name": "Константин",
+    "surname": "Семенов",
+    "middle_name": "Витальевич",
+    "organization": 3,
+    "employee_phone_number": "98654",
+    "mobile_phone_number": "89179087651"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 37,
+  "fields": {
+    "name": "Николай",
+    "surname": "Дрозд",
+    "middle_name": "Иванович",
+    "organization": 2,
+    "employee_phone_number": "95343",
+    "mobile_phone_number": "89179087051"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 38,
+  "fields": {
+    "name": "Виктор",
+    "surname": "Науменко",
+    "middle_name": "Петрович",
+    "organization": 4,
+    "employee_phone_number": "45324",
+    "mobile_phone_number": "89174539654"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 39,
+  "fields": {
+    "name": "Алиса",
+    "surname": "Тригуб",
+    "middle_name": "Юрьевна",
+    "organization": 6,
+    "employee_phone_number": "96054",
+    "mobile_phone_number": "89371250545"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 40,
+  "fields": {
+    "name": "Валерий",
+    "surname": "Воронин",
+    "middle_name": "Михайлович",
+    "organization": 7,
+    "employee_phone_number": "06054",
+    "mobile_phone_number": "89371251540"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 41,
+  "fields": {
+    "name": "Виктор",
+    "surname": "Булгаков",
+    "middle_name": "Иванович",
+    "organization": 3,
+    "employee_phone_number": "34504",
+    "mobile_phone_number": "89376579430"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 42,
+  "fields": {
+    "name": "Александр",
+    "surname": "Сафронов",
+    "middle_name": "Андреевич",
+    "organization": 3,
+    "employee_phone_number": "45012",
+    "mobile_phone_number": "8370943203"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 43,
+  "fields": {
+    "name": "Римма",
+    "surname": "Слепцова",
+    "middle_name": "Васильевна",
+    "organization": 6,
+    "employee_phone_number": "98342",
+    "mobile_phone_number": "89370983210"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 44,
+  "fields": {
+    "name": "Зорина",
+    "surname": "Каролина",
+    "middle_name": "Гавриловна",
+    "organization": 2,
+    "employee_phone_number": "45053",
+    "mobile_phone_number": "89375239411"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 45,
+  "fields": {
+    "name": "Елена",
+    "surname": "Фанина",
+    "middle_name": "Потаповна",
+    "organization": 5,
+    "employee_phone_number": "23354",
+    "mobile_phone_number": "89375534125"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 46,
+  "fields": {
+    "name": "Богдан",
+    "surname": "Баранов",
+    "middle_name": "Игоревич",
+    "organization": 4,
+    "employee_phone_number": "05441",
+    "mobile_phone_number": "89375642196"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 47,
+  "fields": {
+    "name": "Богдан",
+    "surname": "Климов",
+    "middle_name": "Сергеевич",
+    "organization": 4,
+    "employee_phone_number": "05440",
+    "mobile_phone_number": "89375142190"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 48,
+  "fields": {
+    "name": "Алексей",
+    "surname": "Пузиков",
+    "middle_name": "Игоревич",
+    "organization": 3,
+    "employee_phone_number": "05444",
+    "mobile_phone_number": "89173240967"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 49,
+  "fields": {
+    "name": "Арина",
+    "surname": "Борисова",
+    "middle_name": "Петровна",
+    "organization": 3,
+    "employee_phone_number": "12352",
+    "mobile_phone_number": "89174523523"
+  }
+},
+{
+  "model": "phonebook.phonebook",
+  "pk": 50,
+  "fields": {
+    "name": "Алла",
+    "surname": "Антонова",
+    "middle_name": "Алеексеевна",
+    "organization": 7,
+    "employee_phone_number": "54321",
+    "mobile_phone_number": "89174523520"
+  }
+},
+{
+  "model": "phonebook.organization",
+  "pk": 1,
+  "fields": {
+    "name": "Alyans"
+  }
+},
+{
+  "model": "phonebook.organization",
+  "pk": 2,
+  "fields": {
+    "name": "Vector"
+  }
+},
+{
+  "model": "phonebook.organization",
+  "pk": 3,
+  "fields": {
+    "name": "Spectr"
+  }
+},
+{
+  "model": "phonebook.organization",
+  "pk": 4,
+  "fields": {
+    "name": "Progress"
+  }
+},
+{
+  "model": "phonebook.organization",
+  "pk": 5,
+  "fields": {
+    "name": "Delta"
+  }
+},
+{
+  "model": "phonebook.organization",
+  "pk": 6,
+  "fields": {
+    "name": "Avangard"
+  }
+},
+{
+  "model": "phonebook.organization",
+  "pk": 7,
+  "fields": {
+    "name": "Alpha"
+  }
+}
+]
